@@ -36,7 +36,7 @@ function HomepageHeader() {
                     <div className={styles.copy}>
                         <p>
                             Learn how to build, develop,
-                            and contribute to the world&apos;s most customisable Learning Management System.
+                            and contribute to the world&apos;s most customisable Learning Management System by Gifty.
                         </p>
                     </div>
                 </div>
